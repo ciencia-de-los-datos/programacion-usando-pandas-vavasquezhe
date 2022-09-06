@@ -22,6 +22,9 @@ def pregunta_01():
     40
 
     """
+
+    import pandas as pd 
+    
     return
 
 
